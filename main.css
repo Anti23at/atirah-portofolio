@@ -1,5 +1,20 @@
-<h1{color:red;
-    border-style: dashed;
-    border-width: 2px;
-    border-color: blue;}
-    /h1>
+/* semua atau seluruh jenis huruf berubah */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+ /* baground warna */
+body{
+    background-color: #597655;
+}
+/* judul besar */
+h1{background-color: darkgoldenrod;
+}
+h2{background-color: blue;
+}
+div {
+    background-color: blue;
+    color: white;
+  }
+  .kotak{
+    width: ;
+  }
